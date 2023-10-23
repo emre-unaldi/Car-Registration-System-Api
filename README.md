@@ -17,7 +17,7 @@ This backend project was bootstrapped with [Java Spring Boot](https://spring.io)
 - Swagger
   
 ## `Run Application`
-> Open [http://localhost:8000](http://localhost:8000) to view it in the browser.
+> After running the project, the application will run at [http://localhost:8000](http://localhost:8000).
 
 ## `User Endpoints`
 | Route                                     | HTTP     | POST body	                                                                                     | Description	              |
