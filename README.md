@@ -15,7 +15,10 @@ This backend project was bootstrapped with [Java Spring Boot](https://spring.io)
 - Lombok
 - Model Mapper
 - Swagger
----
+  
+## `Run Application`
+> Open [http://localhost:8000](http://localhost:8000) to view it in the browser.
+
 ## `User Endpoints`
 | Route                                     | HTTP     | POST body	                                                                                     | Description	              |
 |-------------------------------------------|----------|------------------------------------------------------------------------------------------------|---------------------------|
